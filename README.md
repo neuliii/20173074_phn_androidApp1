@@ -4,8 +4,5 @@
 
 ## 2주차
 - Github사용법
-- 안드로이드스튜디오 시작하기
-  - AVD 실행하기
-  - loast 알림 출력해보기
-    - SHORT
-    - LONG
+
+<img width="" height="" src="./png/강아지.jpg"></img>
