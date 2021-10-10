@@ -31,3 +31,11 @@
 <img width="" height="" src="./png/5주차 출석과제1.png"></img>
 
 <img width="" height="" src="./png/5주차 출석과제2.png"></img>
+
+## 6주차 과제
+
+<img width="" height="" src="./png/이미지변경버튼.png"></img>
+
+<img width="" height="" src="./png/넓이버튼.png"></img>
+
+<img width="" height="" src="./png/높이버튼.png"></img>
