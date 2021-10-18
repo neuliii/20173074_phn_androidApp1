@@ -39,3 +39,9 @@
 <img width="" height="" src="./png/넓이버튼.png"></img>
 
 <img width="" height="" src="./png/높이버튼.png"></img>
+
+## 7주차 과제
+
+<img width="" height="" src="./png/입력.png"></img>
+
+<img width="" height="" src="./png/버튼.png"></img>
