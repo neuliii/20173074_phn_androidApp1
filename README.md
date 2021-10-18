@@ -42,6 +42,6 @@
 
 ## 7주차 과제
 
-<img width="" height="" src="./png/입력.png"></img>
+<img width="" height="" src="./png/입력.jpg"></img>
 
-<img width="" height="" src="./png/버튼.png"></img>
+<img width="" height="" src="./png/버튼.jpg"></img>
